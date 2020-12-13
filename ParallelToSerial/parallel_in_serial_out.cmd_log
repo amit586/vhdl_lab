@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/ParallelToSerial/parallel_in_serial_out.xst" -ofn "/home/amit/vhdl_lab/ParallelToSerial/parallel_in_serial_out.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-2 parallel_in_serial_out.ngc parallel_in_serial_out.ngd  
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/ParallelToSerial/parallel_in_serial_out.xst" -ofn "/home/amit/vhdl_lab/ParallelToSerial/parallel_in_serial_out.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/ParallelToSerial/parallel_in_serial_out.xst" -ofn "/home/amit/vhdl_lab/ParallelToSerial/parallel_in_serial_out.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/ParallelToSerial/parallel_in_serial_out.xst" -ofn "/home/amit/vhdl_lab/ParallelToSerial/parallel_in_serial_out.syr" 

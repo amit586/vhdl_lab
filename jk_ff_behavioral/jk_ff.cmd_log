@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.xst" -ofn "/home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.xst" -ofn "/home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.xst" -ofn "/home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.xst" -ofn "/home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.syr" 

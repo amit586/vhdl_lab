@@ -1,0 +1,6 @@
+V3 3
+FL /home/amit/vhdl_lab/decoder_2x4/decoder.vhd 2020/11/29.02:14:52 P.20131013
+EN work/decoder 1606596299 FL /home/amit/vhdl_lab/decoder_2x4/decoder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/decoder/Behavioral 1606596300 \
+      FL /home/amit/vhdl_lab/decoder_2x4/decoder.vhd EN work/decoder 1606596299

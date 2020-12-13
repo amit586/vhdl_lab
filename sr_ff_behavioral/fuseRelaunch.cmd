@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/amit/vhdl_lab/sr_ff_behavioral/sr_ff_isim_beh.exe" -prj "/home/amit/vhdl_lab/sr_ff_behavioral/sr_ff_beh.prj" "work.sr_ff" 

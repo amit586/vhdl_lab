@@ -1,0 +1,6 @@
+V3 3
+FL /home/amit/vhdl_lab/d_ff_sync_reset/d_ff.vhd 2020/11/29.03:06:56 P.20131013
+EN work/d_ff 1606599421 FL /home/amit/vhdl_lab/d_ff_sync_reset/d_ff.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/d_ff/Behavioral 1606599422 \
+      FL /home/amit/vhdl_lab/d_ff_sync_reset/d_ff.vhd EN work/d_ff 1606599421

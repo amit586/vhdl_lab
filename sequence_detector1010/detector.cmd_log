@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/sequence_detector1010/detector.xst" -ofn "/home/amit/vhdl_lab/sequence_detector1010/detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-2 detector.ngc detector.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o detector_map.ncd detector.ngd detector.pcf 
+par -w -intstyle ise -ol high -mt off detector_map.ncd detector.ncd detector.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml detector.twx detector.ncd -o detector.twr detector.pcf 

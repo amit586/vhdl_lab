@@ -1,0 +1,13 @@
+V3 7
+FL /home/amit/vhdl_lab/and_gate_10input/and_10inp.vhd 2020/12/06.03:56:19 P.20131013
+EN work/and_10inp 1607207188 \
+      FL /home/amit/vhdl_lab/and_gate_10input/and_10inp.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/and_10inp/Behavioral 1607207189 \
+      FL /home/amit/vhdl_lab/and_gate_10input/and_10inp.vhd EN work/and_10inp 1607207188 \
+      CP and_gate
+FL /home/amit/vhdl_lab/and_gate_10input/and_gate.vhd 2020/12/06.03:51:50 P.20131013
+EN work/and_gate 1607207186 FL /home/amit/vhdl_lab/and_gate_10input/and_gate.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/and_gate/Behavioral 1607207187 \
+      FL /home/amit/vhdl_lab/and_gate_10input/and_gate.vhd EN work/and_gate 1607207186

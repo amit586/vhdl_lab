@@ -1,0 +1,6 @@
+V3 3
+FL /home/amit/vhdl_lab/mux_8x1_behavioral/mux_8x1.vhd 2020/12/07.02:38:14 P.20131013
+EN work/mux_8x1 1607288901 FL /home/amit/vhdl_lab/mux_8x1_behavioral/mux_8x1.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux_8x1/Behavioral 1607288902 \
+      FL /home/amit/vhdl_lab/mux_8x1_behavioral/mux_8x1.vhd EN work/mux_8x1 1607288901

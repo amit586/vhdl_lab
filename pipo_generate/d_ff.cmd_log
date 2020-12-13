@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/pipo_generate/d_ff.xst" -ofn "/home/amit/vhdl_lab/pipo_generate/d_ff.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/pipo_generate/d_ff.xst" -ofn "/home/amit/vhdl_lab/pipo_generate/d_ff.syr" 

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="580" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 13: Mismatch on label ; expected <arg fmt="%s" index="1">prallel_in_serial_out</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="854" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 4: Unit &lt;<arg fmt="%s" index="1">prallel_in_serial_out</arg>&gt; ignored due to previous errors.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="374" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 15: Entity &lt;<arg fmt="%s" index="1">parallel_in_serial_out</arg>&gt; is not yet compiled.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 18: &lt;<arg fmt="%s" index="1">std_logic_vector</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 21: &lt;<arg fmt="%s" index="1">temp</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 23: &lt;<arg fmt="%s" index="1">temp</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 22: &lt;<arg fmt="%s" index="1">load</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 25: &lt;<arg fmt="%s" index="1">dout</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 26: &lt;<arg fmt="%s" index="1">temp</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 24: &lt;<arg fmt="%s" index="1">rising_edge</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 20: &lt;<arg fmt="%s" index="1">reset</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 17: &lt;<arg fmt="%s" index="1">clk</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="580" delta="new" >"/home/amit/vhdl_lab/ParallelToSerial/pico.vhd" Line 29: Mismatch on label ; expected <arg fmt="%s" index="1">piso_arc</arg>
+</msg>
+
+</messages>
+

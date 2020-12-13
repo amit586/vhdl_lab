@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/amit/vhdl_lab/d_ff_sync_reset/d_ff_isim_beh.exe" -prj "/home/amit/vhdl_lab/d_ff_sync_reset/d_ff_beh.prj" "work.d_ff" 

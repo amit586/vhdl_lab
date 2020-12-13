@@ -1,0 +1,8 @@
+V3 3
+FL /home/amit/vhdl_lab/fsm_000_detector/sequence_detector.vhd 2020/12/05.23:16:54 P.20131013
+EN work/sequence_detector 1607190419 \
+      FL /home/amit/vhdl_lab/fsm_000_detector/sequence_detector.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/sequence_detector/Behavioral 1607190420 \
+      FL /home/amit/vhdl_lab/fsm_000_detector/sequence_detector.vhd \
+      EN work/sequence_detector 1607190419

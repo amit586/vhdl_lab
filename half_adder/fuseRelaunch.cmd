@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/half_adder/half_adder_isim_beh.exe" -prj "/home/amit/vhdl_lab/half_adder/half_adder_beh.prj" "work.half_adder" 

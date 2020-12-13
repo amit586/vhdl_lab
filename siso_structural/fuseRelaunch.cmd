@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/amit/vhdl_lab/siso_structural/siso_isim_beh.exe" -prj "/home/amit/vhdl_lab/siso_structural/siso_beh.prj" "work.siso" 

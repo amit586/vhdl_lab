@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/xnot_with/xnor_with_isim_beh.exe" -prj "/home/amit/vhdl_lab/xnot_with/xnor_with_beh.prj" "work.xnor_with" 

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/xnot_with/xnor_with.xst" -ofn "/home/amit/vhdl_lab/xnot_with/xnor_with.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/xnot_with/xnor_with.xst" -ofn "/home/amit/vhdl_lab/xnot_with/xnor_with.syr" 

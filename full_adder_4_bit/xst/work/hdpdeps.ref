@@ -1,0 +1,26 @@
+V3 15
+FL /home/amit/vhdl_lab/full_adder_4_bit/adder_4bit.vhd 2020/12/06.04:32:22 P.20131013
+EN work/adder_4bit 1607209354 \
+      FL /home/amit/vhdl_lab/full_adder_4_bit/adder_4bit.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/adder_4bit/Behavioral 1607209355 \
+      FL /home/amit/vhdl_lab/full_adder_4_bit/adder_4bit.vhd EN work/adder_4bit 1607209354 \
+      CP full_adder
+FL /home/amit/vhdl_lab/full_adder_4_bit/full_adder.vhd 2020/12/06.04:25:32 P.20131013
+EN work/full_adder 1607209352 \
+      FL /home/amit/vhdl_lab/full_adder_4_bit/full_adder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/full_adder/Behavioral 1607209353 \
+      FL /home/amit/vhdl_lab/full_adder_4_bit/full_adder.vhd EN work/full_adder 1607209352 \
+      CP half_adder CP or_gate
+FL /home/amit/vhdl_lab/full_adder_4_bit/half_adder.vhd 2020/12/06.04:19:35 P.20131013
+EN work/half_adder 1607209348 \
+      FL /home/amit/vhdl_lab/full_adder_4_bit/half_adder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/half_adder/Behavioral 1607209349 \
+      FL /home/amit/vhdl_lab/full_adder_4_bit/half_adder.vhd EN work/half_adder 1607209348
+FL /home/amit/vhdl_lab/full_adder_4_bit/or_gate.vhd 2020/12/06.04:21:22 P.20131013
+EN work/or_gate 1607209350 FL /home/amit/vhdl_lab/full_adder_4_bit/or_gate.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/or_gate/Behavioral 1607209351 \
+      FL /home/amit/vhdl_lab/full_adder_4_bit/or_gate.vhd EN work/or_gate 1607209350

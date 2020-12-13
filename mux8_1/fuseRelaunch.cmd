@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/mux8_1/source_isim_beh.exe" -prj "/home/amit/vhdl_lab/mux8_1/source_beh.prj" "work.source" 

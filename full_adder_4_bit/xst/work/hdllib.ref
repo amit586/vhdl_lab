@@ -1,0 +1,8 @@
+EN adder_4bit NULL /home/amit/vhdl_lab/full_adder_4_bit/adder_4bit.vhd sub00/vhpl06 1607209354
+AR adder_4bit behavioral /home/amit/vhdl_lab/full_adder_4_bit/adder_4bit.vhd sub00/vhpl07 1607209355
+EN half_adder NULL /home/amit/vhdl_lab/full_adder_4_bit/half_adder.vhd sub00/vhpl00 1607209348
+AR or_gate behavioral /home/amit/vhdl_lab/full_adder_4_bit/or_gate.vhd sub00/vhpl03 1607209351
+EN full_adder NULL /home/amit/vhdl_lab/full_adder_4_bit/full_adder.vhd sub00/vhpl04 1607209352
+EN or_gate NULL /home/amit/vhdl_lab/full_adder_4_bit/or_gate.vhd sub00/vhpl02 1607209350
+AR full_adder behavioral /home/amit/vhdl_lab/full_adder_4_bit/full_adder.vhd sub00/vhpl05 1607209353
+AR half_adder behavioral /home/amit/vhdl_lab/full_adder_4_bit/half_adder.vhd sub00/vhpl01 1607209349

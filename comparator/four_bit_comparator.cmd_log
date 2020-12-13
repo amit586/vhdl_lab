@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/comparator/four_bit_comparator.xst" -ofn "/home/amit/vhdl_lab/comparator/four_bit_comparator.syr" 

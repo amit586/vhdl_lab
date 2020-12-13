@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/amit/vhdl_lab/testverilog/UseGates_isim_beh.exe" -prj "/home/amit/vhdl_lab/testverilog/UseGates_beh.prj" "work.UseGates" "work.glbl" 

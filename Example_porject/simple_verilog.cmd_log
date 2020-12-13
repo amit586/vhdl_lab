@@ -1,0 +1,3 @@
+vhdtdtfi -lib work /home/amit/Example_porject/simple_verilog.v -lang verilog -prj Example_porject -o simple_verilog.spl -module simple_verilog -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 simple_verilog.spl /home/amit/Example_porject/simple_verilog.sym 
+vhdtdtfi -lang verilog -prj Example_porject -o /home/amit/Example_porject/simple_verilog.tfi -lib work /home/amit/Example_porject//simple_verilog.v -module simple_verilog -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

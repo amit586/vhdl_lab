@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/mux_2x1_dataflow/mux_isim_beh.exe" -prj "/home/amit/vhdl_lab/mux_2x1_dataflow/mux_beh.prj" "work.mux" 

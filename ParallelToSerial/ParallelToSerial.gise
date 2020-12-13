@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="ParallelToSerial.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="parallel_in_serial_out.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="parallel_in_serial_out.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="parallel_in_serial_out.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="parallel_in_serial_out.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="parallel_in_serial_out.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="parallel_in_serial_out.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="parallel_in_serial_out.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="parallel_in_serial_out.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="parallel_in_serial_out.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="parallel_in_serial_out.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="parallel_in_serial_out_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="parallel_in_serial_out_envsettings.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="parallel_in_serial_out_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="parallel_in_serial_out_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="parallel_in_serial_out_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="parallel_in_serial_out_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="parallel_in_serial_out_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="parallel_in_serial_out_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1605673298" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1605673298">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673298" xil_pn:in_ck="4912877576443" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1605673298">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="pico.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673300" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-3517526652520970478" xil_pn:start_ts="1605673300">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673300" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="1765185152792823632" xil_pn:start_ts="1605673300">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673300" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="4841922444175522533" xil_pn:start_ts="1605673300">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673300" xil_pn:in_ck="4912877576443" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1605673300">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="pico.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673303" xil_pn:in_ck="4912877576443" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="5238946829011018241" xil_pn:start_ts="1605673300">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="parallel_in_serial_out_beh.prj"/>
+      <outfile xil_pn:name="parallel_in_serial_out_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1606246752" xil_pn:in_ck="6761928328848501384" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="2079079390599335748" xil_pn:start_ts="1606246751">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="parallel_in_serial_out_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673206" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1605673206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673206" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="4261275165293511760" xil_pn:start_ts="1605673206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673206" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="4841922444175522533" xil_pn:start_ts="1605673206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673206" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1605673206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673206" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-3517526652520970478" xil_pn:start_ts="1605673206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673206" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="1106364426758808884" xil_pn:start_ts="1605673206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1605673206" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="953352458052275247" xil_pn:start_ts="1605673206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1606249334" xil_pn:in_ck="4912877576443" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-2951047672194061779" xil_pn:start_ts="1606249329">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="parallel_in_serial_out.lso"/>
+      <outfile xil_pn:name="parallel_in_serial_out.ngc"/>
+      <outfile xil_pn:name="parallel_in_serial_out.prj"/>
+      <outfile xil_pn:name="parallel_in_serial_out.syr"/>
+      <outfile xil_pn:name="parallel_in_serial_out.xst"/>
+      <outfile xil_pn:name="parallel_in_serial_out_beh.prj"/>
+      <outfile xil_pn:name="parallel_in_serial_out_stx_beh.prj"/>
+      <outfile xil_pn:name="parallel_in_serial_out_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1606249296" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="6112518825697375140" xil_pn:start_ts="1606249296">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1606249304" xil_pn:in_ck="-7436525276906702497" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-2519300844707301018" xil_pn:start_ts="1606249296">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="parallel_in_serial_out.bld"/>
+      <outfile xil_pn:name="parallel_in_serial_out.ngd"/>
+      <outfile xil_pn:name="parallel_in_serial_out_ngdbuild.xrpt"/>
+    </transform>
+  </transforms>
+
+</generated_project>

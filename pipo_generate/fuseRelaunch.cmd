@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/amit/vhdl_lab/pipo_generate/pipo_isim_beh.exe" -prj "/home/amit/vhdl_lab/pipo_generate/pipo_beh.prj" "work.pipo" 

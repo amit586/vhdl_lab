@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/home/amit/demux1_8/demux_module.xst" -ofn "/home/amit/demux1_8/demux_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-2 demux_module.ngc demux_module.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o demux_module_map.ncd demux_module.ngd demux_module.pcf 
+par -w -intstyle ise -ol high -mt off demux_module_map.ncd demux_module.ncd demux_module.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml demux_module.twx demux_module.ncd -o demux_module.twr demux_module.pcf 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/nand_gate_with_statement/nand_gate_isim_beh.exe" -prj "/home/amit/vhdl_lab/nand_gate_with_statement/nand_gate_beh.prj" "work.nand_gate" 

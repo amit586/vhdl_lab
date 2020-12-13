@@ -1,0 +1,48 @@
+////////////////////////////////////////////////////////////////////////////////
+// Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+////////////////////////////////////////////////////////////////////////////////
+//   ____  ____ 
+//  /   /\/   / 
+// /___/  \  /    Vendor: Xilinx 
+// \   \   \/     Version : 14.7
+//  \   \         Application : sch2hdl
+//  /   /         Filename : simple_logic.vf
+// /___/   /\     Timestamp : 08/31/2020 13:30:50
+// \   \  /  \ 
+//  \___\/\___\ 
+//
+//Command: sch2hdl -intstyle ise -family spartan6 -verilog /home/amit/Example_porject/simple_logic.vf -w /home/amit/Example_porject/simple_logic.sch
+//Design Name: simple_logic
+//Device: spartan6
+//Purpose:
+//    This verilog netlist is translated from an ECS schematic.It can be 
+//    synthesized and simulated, but it should not be modified. 
+//
+`timescale 1ns / 1ps
+
+module simple_logic(A, 
+                    B, 
+                    C, 
+                    F);
+
+    input A;
+    input B;
+    input C;
+   output F;
+   
+   wire XLXN_1;
+   wire XLXN_2;
+   wire XLXN_3;
+   
+   AND2  XLXI_1 (.I0(XLXN_1), 
+                .I1(A), 
+                .O(XLXN_2));
+   AND2  XLXI_2 (.I0(C), 
+                .I1(B), 
+                .O(XLXN_3));
+   OR2  XLXI_3 (.I0(XLXN_3), 
+               .I1(XLXN_2), 
+               .O(F));
+   INV  XLXI_4 (.I(B), 
+               .O(XLXN_1));
+endmodule

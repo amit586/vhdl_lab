@@ -1,0 +1,12 @@
+V3 7
+FL /home/amit/vhdl_lab/pipo_generate/d_ff.vhd 2020/12/06.04:09:42 P.20131013
+EN work/d_ff 1607208264 FL /home/amit/vhdl_lab/pipo_generate/d_ff.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/d_ff/Behavioral 1607208265 \
+      FL /home/amit/vhdl_lab/pipo_generate/d_ff.vhd EN work/d_ff 1607208264
+FL /home/amit/vhdl_lab/pipo_generate/pipo.vhd 2020/12/06.04:14:17 P.20131013
+EN work/pipo 1607208266 FL /home/amit/vhdl_lab/pipo_generate/pipo.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/pipo/Behavioral 1607208267 \
+      FL /home/amit/vhdl_lab/pipo_generate/pipo.vhd EN work/pipo 1607208266 \
+      CP d_ff

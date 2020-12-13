@@ -1,0 +1,6 @@
+V3 3
+FL /home/amit/vhdl_lab/mux_2x1_case/mux.vhd 2020/11/28.23:50:44 P.20131013
+EN work/mux 1606587656 FL /home/amit/vhdl_lab/mux_2x1_case/mux.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux/Behavioral 1606587657 \
+      FL /home/amit/vhdl_lab/mux_2x1_case/mux.vhd EN work/mux 1606587656

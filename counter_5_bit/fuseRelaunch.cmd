@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/amit/vhdl_lab/counter_5_bit/counter_isim_beh.exe" -prj "/home/amit/vhdl_lab/counter_5_bit/counter_beh.prj" "work.counter" 

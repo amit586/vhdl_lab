@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/mux_2x1_dataflow/mux.xst" -ofn "/home/amit/vhdl_lab/mux_2x1_dataflow/mux.syr" 

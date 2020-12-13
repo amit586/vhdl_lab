@@ -1,0 +1,14 @@
+
+
+
+// Instantiate the module
+simple_verilog instance_name (
+    .A(A), 
+    .B(B), 
+    .C(C), 
+    .F_structural(F_structural), 
+    .F_functional(F_functional), 
+    .F_behavioral(F_behavioral)
+    );
+
+

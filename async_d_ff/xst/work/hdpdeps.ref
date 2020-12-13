@@ -1,0 +1,6 @@
+V3 3
+FL /home/amit/vhdl_lab/async_d_ff/d_ff.vhd 2020/11/29.02:58:18 P.20131013
+EN work/d_ff 1606598904 FL /home/amit/vhdl_lab/async_d_ff/d_ff.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/d_ff/Behavioral 1606598905 \
+      FL /home/amit/vhdl_lab/async_d_ff/d_ff.vhd EN work/d_ff 1606598904

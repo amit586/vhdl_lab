@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/nor_gate_with/nor_gate_isim_beh.exe" -prj "/home/amit/vhdl_lab/nor_gate_with/nor_gate_beh.prj" "work.nor_gate" 

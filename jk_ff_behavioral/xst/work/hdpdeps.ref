@@ -1,0 +1,6 @@
+V3 3
+FL /home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.vhd 2020/12/05.19:14:11 P.20131013
+EN work/jk_ff 1607175860 FL /home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/jk_ff/Behavioral 1607175861 \
+      FL /home/amit/vhdl_lab/jk_ff_behavioral/jk_ff.vhd EN work/jk_ff 1607175860

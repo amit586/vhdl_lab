@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/amit/vhdl_lab/full_adder_4_bit/adder_4bit_isim_beh.exe" -prj "/home/amit/vhdl_lab/full_adder_4_bit/adder_4bit_beh.prj" "work.adder_4bit" 

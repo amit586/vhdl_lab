@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/siso_structural/d_ff.xst" -ofn "/home/amit/vhdl_lab/siso_structural/d_ff.syr" 

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/amit/vhdl_lab/piso_behavioral/piso_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="piso" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/piso/input" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">input[3:0]</obj_property>
+      <obj_property name="ObjectShortName">input[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/piso/load" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">load</obj_property>
+      <obj_property name="ObjectShortName">load</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/piso/output" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">output</obj_property>
+      <obj_property name="ObjectShortName">output</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/piso/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff00ff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/piso/temp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">temp[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp[3:0]</obj_property>
+   </wvobject>
+</wave_config>

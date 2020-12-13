@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/amit/vhdl_lab/piso_behavioral/piso_isim_beh.exe" -prj "/home/amit/vhdl_lab/piso_behavioral/piso_beh.prj" "work.piso" 

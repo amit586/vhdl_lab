@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/mux_2x1_case/mux.xst" -ofn "/home/amit/vhdl_lab/mux_2x1_case/mux.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/mux_2x1_case/mux.xst" -ofn "/home/amit/vhdl_lab/mux_2x1_case/mux.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/mux_2x1_case/mux.xst" -ofn "/home/amit/vhdl_lab/mux_2x1_case/mux.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/mux_2x1_case/mux.xst" -ofn "/home/amit/vhdl_lab/mux_2x1_case/mux.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/mux_2x1_case/mux.xst" -ofn "/home/amit/vhdl_lab/mux_2x1_case/mux.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/mux_2x1_case/mux.xst" -ofn "/home/amit/vhdl_lab/mux_2x1_case/mux.syr" 

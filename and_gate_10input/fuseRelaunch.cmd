@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/amit/vhdl_lab/and_gate_10input/and_10inp_isim_beh.exe" -prj "/home/amit/vhdl_lab/and_gate_10input/and_10inp_beh.prj" "work.and_10inp" 

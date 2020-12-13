@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/and_gate_10input/and_10inp.xst" -ofn "/home/amit/vhdl_lab/and_gate_10input/and_10inp.syr" 

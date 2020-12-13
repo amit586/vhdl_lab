@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/up_counter/counter_isim_beh.exe" -prj "/home/amit/vhdl_lab/up_counter/counter_beh.prj" "work.counter" 

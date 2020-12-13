@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+ripple_carry_counter instance_name (
+    .q(q), 
+    .clk(clk), 
+    .reset(reset)
+    );
+
+

@@ -1,0 +1,24 @@
+ISim log file
+Running: /home/amit/vhdl_lab/t_ff_behavioral/T_FF_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/amit/vhdl_lab/t_ff_behavioral/T_FF_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /t_ff/t 0 -radix bin
+# isim force add /t_ff/clock 0 -radix bin
+# isim force add /t_ff/q 0 -radix bin
+# isim force add /t_ff/tmp 0 -radix bin
+# run all
+# run all
+# run 1.00us
+# isim force add /t_ff/clock 0 -radix bin -value 1 -radix bin -time 5 ps -repeat 10 ps -cancel 200 ps
+# isim force add /t_ff/t 1 -radix bin
+# run 1.00us
+# exit 0

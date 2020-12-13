@@ -1,0 +1,6 @@
+V3 3
+FL /home/amit/vhdl_lab/piso_behavioral/piso.vhd 2020/12/07.03:43:06 P.20131013
+EN work/piso 1607292807 FL /home/amit/vhdl_lab/piso_behavioral/piso.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/piso/Behavioral 1607292808 \
+      FL /home/amit/vhdl_lab/piso_behavioral/piso.vhd EN work/piso 1607292807

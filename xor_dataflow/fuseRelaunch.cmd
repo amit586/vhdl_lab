@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/xor_dataflow/xot_gate_isim_beh.exe" -prj "/home/amit/vhdl_lab/xor_dataflow/xot_gate_beh.prj" "work.xot_gate" 

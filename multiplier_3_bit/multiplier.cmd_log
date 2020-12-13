@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/multiplier_3_bit/multiplier.xst" -ofn "/home/amit/vhdl_lab/multiplier_3_bit/multiplier.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/multiplier_3_bit/multiplier.xst" -ofn "/home/amit/vhdl_lab/multiplier_3_bit/multiplier.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/multiplier_3_bit/multiplier.xst" -ofn "/home/amit/vhdl_lab/multiplier_3_bit/multiplier.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/multiplier_3_bit/multiplier.xst" -ofn "/home/amit/vhdl_lab/multiplier_3_bit/multiplier.syr" 

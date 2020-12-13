@@ -1,0 +1,1 @@
+vhdtdtfi -prj full_adder_structural -o /home/amit/vhdl_lab/full_adder_structural/or_gate.vhi -module or_gate -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work or_gate.vhd 

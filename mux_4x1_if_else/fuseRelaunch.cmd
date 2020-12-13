@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/amit/vhdl_lab/mux_4x1_if_else/mux_4x1_isim_beh.exe" -prj "/home/amit/vhdl_lab/mux_4x1_if_else/mux_4x1_beh.prj" "work.mux_4x1" 

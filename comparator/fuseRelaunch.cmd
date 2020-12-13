@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/comparator/four_bit_comparator_isim_beh.exe" -prj "/home/amit/vhdl_lab/comparator/four_bit_comparator_beh.prj" "work.four_bit_comparator" 

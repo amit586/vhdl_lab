@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/mux_8x1_behavioral/mux_8x1.xst" -ofn "/home/amit/vhdl_lab/mux_8x1_behavioral/mux_8x1.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/mux_8x1_behavioral/mux_8x1.xst" -ofn "/home/amit/vhdl_lab/mux_8x1_behavioral/mux_8x1.syr" 

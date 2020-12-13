@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/full_adder_dataflow/full_adder.xst" -ofn "/home/amit/vhdl_lab/full_adder_dataflow/full_adder.syr" 

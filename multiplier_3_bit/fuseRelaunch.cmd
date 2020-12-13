@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/amit/vhdl_lab/multiplier_3_bit/multiplier_isim_beh.exe" -prj "/home/amit/vhdl_lab/multiplier_3_bit/multiplier_beh.prj" "work.multiplier" 

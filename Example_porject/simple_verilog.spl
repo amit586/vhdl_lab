@@ -1,0 +1,12 @@
+[Inputs]
+A
+B
+C
+[Outputs]
+F_structural
+F_functional
+F_behavioral
+[BiDir]
+[ATTRIBUTES]
+VeriModel simple_verilog
+

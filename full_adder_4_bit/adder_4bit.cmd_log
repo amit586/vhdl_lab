@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/full_adder_4_bit/adder_4bit.xst" -ofn "/home/amit/vhdl_lab/full_adder_4_bit/adder_4bit.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/full_adder_4_bit/adder_4bit.xst" -ofn "/home/amit/vhdl_lab/full_adder_4_bit/adder_4bit.syr" 

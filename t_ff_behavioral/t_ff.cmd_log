@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/t_ff_behavioral/t_ff.xst" -ofn "/home/amit/vhdl_lab/t_ff_behavioral/t_ff.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/t_ff_behavioral/t_ff.xst" -ofn "/home/amit/vhdl_lab/t_ff_behavioral/t_ff.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/t_ff_behavioral/t_ff.xst" -ofn "/home/amit/vhdl_lab/t_ff_behavioral/t_ff.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/t_ff_behavioral/t_ff.xst" -ofn "/home/amit/vhdl_lab/t_ff_behavioral/t_ff.syr" 
+xst -intstyle ise -ifn "/home/amit/vhdl_lab/t_ff_behavioral/t_ff.xst" -ofn "/home/amit/vhdl_lab/t_ff_behavioral/t_ff.syr" 

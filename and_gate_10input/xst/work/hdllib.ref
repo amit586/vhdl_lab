@@ -1,0 +1,4 @@
+AR and_10inp behavioral /home/amit/vhdl_lab/and_gate_10input/and_10inp.vhd sub00/vhpl03 1607207189
+AR and_gate behavioral /home/amit/vhdl_lab/and_gate_10input/and_gate.vhd sub00/vhpl01 1607207187
+EN and_10inp NULL /home/amit/vhdl_lab/and_gate_10input/and_10inp.vhd sub00/vhpl02 1607207188
+EN and_gate NULL /home/amit/vhdl_lab/and_gate_10input/and_gate.vhd sub00/vhpl00 1607207186

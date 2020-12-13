@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/full_adder_dataflow/full_adder_isim_beh.exe" -prj "/home/amit/vhdl_lab/full_adder_dataflow/full_adder_beh.prj" "work.full_adder" 

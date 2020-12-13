@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/demux1_8/demux_module_isim_beh.exe" -prj "/home/amit/demux1_8/demux_module_beh.prj" "work.demux_module" 

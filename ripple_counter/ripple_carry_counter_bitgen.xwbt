@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/amit/vhdl_lab/ripple_counter/ripple_carry_counter.ncd
+OUTFILE=/home/amit/vhdl_lab/ripple_counter/ripple_carry_counter.bit
+FAMILY=Spartan6
+PART=xc6slx16-2csg324
+WORKINGDIR=/home/amit/vhdl_lab/ripple_counter
+LICENSE=WebPack
+USER_INFO=212011710_0_0_438

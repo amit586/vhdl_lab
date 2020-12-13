@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/ParallelToSerial/parallel_in_serial_out_isim_beh.exe" -prj "/home/amit/vhdl_lab/ParallelToSerial/parallel_in_serial_out_beh.prj" "work.parallel_in_serial_out" 

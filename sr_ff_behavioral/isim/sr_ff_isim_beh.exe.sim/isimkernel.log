@@ -1,0 +1,29 @@
+Command line:
+   sr_ff_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  43791
+
+Sat Dec  5 22:00:30 2020
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 184.238 Meg
+
+ Total Signals          : 6
+ Total Nets             : 6
+ Total Signal Drivers   : 2
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 1
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 366
+Total Line Count : 8
+
+ Total Simulation Time: 0.07 sec
+
+ Current Memory Usage: 259.74 Meg
+
+Sat Dec  5 22:02:01 2020
+

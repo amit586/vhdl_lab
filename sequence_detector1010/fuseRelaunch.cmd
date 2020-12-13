@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/amit/vhdl_lab/sequence_detector1010/detector_isim_beh.exe" -prj "/home/amit/vhdl_lab/sequence_detector1010/detector_beh.prj" "work.detector" 
